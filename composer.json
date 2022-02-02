@@ -1,5 +1,12 @@
 {
-    "require": {
-        "mautic/api-library": "^3.0"
+  "name" : "youmatter/mautic-paywall",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Gisserot Jeremie"
     }
+  ],
+  "require": {
+      "mautic/api-library": "^3.0"
+  }
 }
