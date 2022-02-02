@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wp_Mautic_Paywall_Options_Form textarea {
+	width: 540px;
+	max-width: 100%;
+	padding: 8px;
+    height: 8em;
+}
+
+.wp_Mautic_Paywall_Options_Form .wp-editor-wrap {
+	max-width: 100%;
+	padding: 0;
+}
+.wp_Mautic_Paywall_Options_Form .mce-edit-area {
+    padding: 1em;
+}
+body#tinymce {
+	padding-top: 0 !important;
+}
